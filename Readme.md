@@ -3,7 +3,7 @@
 * Студент: [Максим Калинин](https://htmlacademy.ru//profile/id120631)
 * Наставник: [Андрей Грачев](https://htmlacademy.ru/profile/id252055)
 
-Опубликованная версия — [kalininmax.github.io/device](https://kalininmax.github.io/device)
+Опубликованная версия — <a href="https://kalininmax.github.io/device" target="_blank">kalininmax.github.io/device</a>
 
 ## Техническое задание
 
