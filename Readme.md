@@ -3,6 +3,8 @@
 * Студент: [Максим Калинин](https://htmlacademy.ru//profile/id120631)
 * Наставник: [Андрей Грачев](https://htmlacademy.ru/profile/id252055)
 
+Опубликованная версия — https://kalininmax.github.io/device
+
 ## Техническое задание
 
 ### 1\. Общие технические требования
